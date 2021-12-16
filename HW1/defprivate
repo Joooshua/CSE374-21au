@@ -1,0 +1,7 @@
+#! /bin/bash
+
+# Yuxuan Li
+# yxl24
+# HW1: Problem #1
+
+alias private='chmod -R g=u,o-rw'
